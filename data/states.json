@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ca",
+    "name": "California",
+    "standards": [
+      {
+        "id": "ca-sel-1",
+        "name": "Self-Awareness and Self-Management",
+        "description": "Students develop self-awareness, emotional regulation, and goal-setting skills."
+      },
+      {
+        "id": "ca-sel-2",
+        "name": "Social Awareness",
+        "description": "Students demonstrate empathy, perspective-taking, and respect for diversity."
+      },
+      {
+        "id": "ca-sel-3",
+        "name": "Responsible Decision-Making",
+        "description": "Students evaluate consequences and make ethical choices in varied contexts."
+      }
+    ]
+  },
+  {
+    "id": "ny",
+    "name": "New York",
+    "standards": [
+      {
+        "id": "ny-career-1",
+        "name": "Career Development",
+        "description": "Students connect strengths and interests to postsecondary pathways."
+      },
+      {
+        "id": "ny-career-2",
+        "name": "Integrated Learning",
+        "description": "Students apply academic knowledge to real-world and workplace situations."
+      },
+      {
+        "id": "ny-career-3",
+        "name": "Universal Foundation Skills",
+        "description": "Students demonstrate communication, problem solving, and leadership competencies."
+      }
+    ]
+  },
+  {
+    "id": "tx",
+    "name": "Texas",
+    "standards": [
+      {
+        "id": "tx-teks-1",
+        "name": "College Readiness",
+        "description": "Students master core academic skills for college and career success."
+      },
+      {
+        "id": "tx-teks-2",
+        "name": "Career Readiness",
+        "description": "Students explore careers and demonstrate employability competencies."
+      },
+      {
+        "id": "tx-teks-3",
+        "name": "Life Skills",
+        "description": "Students apply social, emotional, and practical skills in community settings."
+      }
+    ]
+  }
+]
