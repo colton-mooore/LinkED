@@ -1,0 +1,52 @@
+[
+  {
+    "id": "critical-thinking",
+    "name": "Critical Thinking",
+    "description": "Analyze complex problems, evaluate evidence, and make reasoned decisions."
+  },
+  {
+    "id": "communication",
+    "name": "Communication",
+    "description": "Articulate ideas clearly and listen actively across multiple formats."
+  },
+  {
+    "id": "collaboration",
+    "name": "Collaboration",
+    "description": "Work productively with diverse teams to achieve shared goals."
+  },
+  {
+    "id": "creativity",
+    "name": "Creativity",
+    "description": "Generate innovative ideas, solutions, and products."
+  },
+  {
+    "id": "adaptability",
+    "name": "Adaptability",
+    "description": "Navigate change, learn continuously, and stay resilient."
+  },
+  {
+    "id": "digital-fluency",
+    "name": "Digital Fluency",
+    "description": "Use technology strategically to create, collaborate, and solve problems."
+  },
+  {
+    "id": "global-awareness",
+    "name": "Global Awareness",
+    "description": "Understand cultural contexts and global interdependencies."
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "description": "Inspire others, set direction, and take initiative ethically."
+  },
+  {
+    "id": "wellbeing",
+    "name": "Wellbeing",
+    "description": "Support physical, emotional, and mental health for sustained success."
+  },
+  {
+    "id": "civic-engagement",
+    "name": "Civic Engagement",
+    "description": "Participate responsibly in community and democratic processes."
+  }
+]
