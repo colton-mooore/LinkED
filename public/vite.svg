@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 404">
+  <defs>
+    <linearGradient id="viteGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#viteGradient)" d="M399.641 59.524L215.53 388.652c-7.61 13.505-27.45 13.468-35.012-.068L9.072 59.493C1.25 45.43 11.67 28 27.362 28h355.288c15.777 0 26.171 17.55 18.257 31.524z" />
+  <path fill="#0f172a" d="M285.324 76.547l-87.99 211.003c-2.787 6.69-12.404 6.776-15.3.13l-24.94-55.69a8 8 0 011.02-8.068l105.73-140.89c4.68-6.236 14.59-3.013 14.59 4.515z" />
+</svg>
