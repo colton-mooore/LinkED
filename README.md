@@ -52,15 +52,4 @@ Because LinkED is a static site, you can deploy it anywhere that serves static a
 1. Build the project with `npm run build`.
 2. Deploy the resulting `dist/` folder to your static host of choice.
 
-### GitHub Pages
-
-This repository includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to GitHub Pages every time `main` is updated.
-
-1. In your repository settings, enable GitHub Pages and choose "GitHub Actions" as the source.
-2. Push or merge a commit to `main`. The workflow will install dependencies, run `npm run build`, and upload the `dist/` output.
-3. Once the "Deploy LinkED to GitHub Pages" workflow finishes, the public URL is shown in the workflow summary and in the Pages settings screen.
-   - If your repository lives at `github.com/<username>/<repository>`, the deployed site will be available at `https://<username>.github.io/<repository>/`.
-   - You can click the "Visit site" button in the workflow run or the GitHub Pages settings panel to open the published app in your browser.
-   - LinkED uses hash-based routing (`#/explore`) so all deep links work on GitHub Pages refreshes without additional configuration.
-
-If you fork the project or change the default branch, update the workflow triggers and (optionally) rename the deployment workflow to suit your setup.
+For GitHub Pages, consider using [`vite-plugin-gh-pages`](https://github.com/vitejs/vite-plugin-gh-pages) or a GitHub Action that publishes the `dist/` directory to the `gh-pages` branch.
